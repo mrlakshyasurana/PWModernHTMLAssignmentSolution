@@ -1,0 +1,18 @@
+Q.2.What are HTML entities? List out 5 commonly used HTML Entities.
+
+Ans:
+HTML entities are a way to represent reserved characters, special characters, and invisible characters in HTML code. Reserved characters such as < and > must be replaced with entities to avoid being mixed with tags. For example, the entity &lt; represents <, and the entity &gt; represents > 1.
+
+HTML entities can be represented using either entity names or entity numbers. Entity names are easier to remember than entity numbers. For instance, the entity name &nbsp; represents a non-breaking space, while the entity number &#160; represents the same character.
+
+Some commonly used HTML entities include:
+
+&amp;: ampersand
+&lt;: less than
+&gt;: greater than
+&nbsp;: non-breaking space
+&copy;: copyright symbol
+&reg;: registered trademark symbol
+&euro;: euro currency symbol
+
+

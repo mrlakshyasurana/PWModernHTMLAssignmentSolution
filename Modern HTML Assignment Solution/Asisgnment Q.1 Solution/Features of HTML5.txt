@@ -1,0 +1,19 @@
+Q.1.List out the features of HTML5.
+
+Ans:
+
+HTML5 is the fifth version of HTML, the standard markup language for creating web pages and web applications. It has introduced several new features that make it better than HTML. Here are some of the main features of HTML5 :
+
+1.Improved multimedia support: Audio and Video tags are the two major additions to HTML5. It allows developers to embed a video or audio on their website. HTML15 video can use CSS and CSS3 to style the video tag. You can change the border, opacity, reflections, gradients, transitions, transformations, and even animations. HTML5 makes adding video super-fast and without having to build a video player.
+
+2.Semantic markup: HTML5 introduces new semantic elements such as <header>, <footer>, <article>, <section>, and more. These elements provide a better structure to web pages and make them more accessible to search engines.
+
+3.Mobile-friendly: HTML5 is designed to work well on mobile devices. It provides better support for touch-based interactions, geolocation, and offline storage.
+
+4.Simplified code: HTML5 has simplified the code required to create web pages. It has eliminated many of the unnecessary tags that were present in previous versions of HTML.
+
+5.Canvas and SVG: HTML5 introduces new graphics elements including vector graphics and tags. Canvas is a new element that allows for dynamic, scriptable rendering of 2D shapes and bitmap images. SVG is a vector graphics format that allows for high-quality graphics that are scalable without losing quality.
+
+6.Offline support: HTML5 provides better support for offline storage using the localStorage and sessionStorage APIs.
+
+Improved performance: HTML5 has improved performance by reducing the amount of code required to create web pages and by providing better support for caching.

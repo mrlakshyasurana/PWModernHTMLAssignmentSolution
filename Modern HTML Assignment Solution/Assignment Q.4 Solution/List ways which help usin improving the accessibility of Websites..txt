@@ -1,0 +1,19 @@
+Q.4.List ways which help usin improving the accessibility of Websites.
+
+Ans:
+
+Improving website accessibility is an important consideration when creating a website or app. It ensures that people with disabilities can access and use the website with ease. Here are some simple ways to improve web accessibility:
+
+Properly use HTML markup: Use HTML tags to structure the content of your website. This helps screen readers and other assistive technologies understand the content.
+
+Include succinct, descriptive image alt text: Alt text is a short description of an image that appears when the image fails to load. It helps people with visual impairments understand the content of the image.
+
+Consider CAPTCHA options: CAPTCHAs are used to prevent spam and abuse on websites. However, they can be difficult for people with disabilities to solve. Consider using alternative CAPTCHA options such as audio or visual challenges.
+
+Make video content accessible: Provide captions, transcripts, and audio descriptions for video content. This helps people with hearing or visual impairments understand the content.
+
+Choose accessible color choices: Ensure that the colors you use on your website have sufficient contrast and are easily distinguishable by people with color blindness.
+
+Ensure the website can be navigated using only a keyboard: Some people with disabilities may not be able to use a mouse or other pointing device. Ensure that your website can be navigated using only a keyboard.
+
+These are just a few ways to improve web accessibility. There are many more techniques and best practices available to ensure that your website is accessible to everyone.
